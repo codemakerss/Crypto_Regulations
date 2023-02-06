@@ -7,7 +7,7 @@
 - Key activities to be regulated : Governance, Issuance, Stablilisation, Wallets
   ![Key Activities Pic](Key_Activities.png)
   
-  ![Key Activities Pic](/Users/hanyuduan/Desktop/HK_Monetary/Key_Activities_2.png)
+  ![Key Activities Pic](Key_Activities_2.png)
   
 - Stablecoins that derive their value based on `arbitrage` or `algorithm` will not be accepted
 
